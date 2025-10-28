@@ -4,13 +4,13 @@ Ever dreamed of expanding your **database** with new facts derived from meta-kno
 
 # Building the video
 
-We recommend installing manim using `uv` as described in their documentation: https://docs.manim.community/en/stable/installation/uv.html .
+We recommend installing manim using `uv` as described in their [documentation](https://docs.manim.community/en/stable/installation/uv.html).
 To setup the environment, run 
 
 ``` shell
 uv sync
 ```
-Additionally, install Mononoki Nerd Font https://www.nerdfonts.com/font-downloads .
+Additionally, install [Mononoki Nerd Font](https://www.nerdfonts.com/font-downloads).
 
 To render all scenes in 4k, run 
 
@@ -22,7 +22,7 @@ manim -qk scene_1.py && manim -qk scene_2.py && manim -qk scene_3.py Scene3_part
 
 (Disclaimer: Rendering in parallel is discouraged, since the caching of the concurrent processes can interfere with each other.)
 
-Open cut.kdenlive with kdenlive ( https://kdenlive.org/download/ ). If it complains about missing files, click on `Seach Recursively` and open the `src/media/` folder. 
+Open cut.kdenlive with [kdenlive](https://kdenlive.org/download/). If it complains about missing files, click on `Seach Recursively` and open the `src/media/` folder. 
 To concatenate all scenes, use `Project -> Render...` to export the final video.
 
 # Additional information
