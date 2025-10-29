@@ -34,7 +34,7 @@ To concatenate all scenes, use `Project -> Render...` to export the final video.
 08:16 Termination & The Restricted Chase\
 10:55 The Core Chase\
 13:44 Recap' & Conclusion\
-14:40 Credits\
+14:40 Credits
 
 #### How to cite:
 https://doi.org/10.5281/zenodo.17456461
@@ -46,6 +46,6 @@ https://www.manim.community/
 https://kr.org/
 
 #### References:
-- Jean-François Baget, Michel Leclère, Marie-Laure Mugnier, and Éric Salvat. On rules with existential variables: Walking the decidability line. Artificial Intelligence, 175(9-10):1620–1654, 2011.
-- Catriel Beeri and Moshe Y. Vardi. The implication problem for data dependencies. In Proceedings of the 8th Colloquium on Automata, Languages and Programming, pages 73–85, 1981.
-- David Carral, Lucas Larroque, Marie-Laure Mugnier, and Michaël Thomazo. Normalisations of Existential Rules: Not so Innocuous! In Proceedings of the 19th International Conference on Principles of Knowledge Representation and Reasoning (KR), pages 102–111, 2022.
+- Jean-François Baget, Michel Leclère, Marie-Laure Mugnier, and Éric Salvat. *On rules with existential variables: Walking the decidability line.* Artificial Intelligence, 175(9-10):1620–1654, 2011.
+- Catriel Beeri and Moshe Y. Vardi. *The implication problem for data dependencies.* In Proceedings of the 8th Colloquium on Automata, Languages and Programming, pages 73–85, 1981.
+- David Carral, Lucas Larroque, Marie-Laure Mugnier, and Michaël Thomazo. *Normalisations of Existential Rules: Not so Innocuous!* In Proceedings of the 19th International Conference on Principles of Knowledge Representation and Reasoning (KR), pages 102–111, 2022.
